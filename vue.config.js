@@ -6,5 +6,7 @@ module.exports = defineConfig({
 module.exports = {
   publicPath: process.env.NODE_ENV === 'production'
     ? '/vuecinema/'
-    : '/'
+    : '/',
+  outputDir: path.resolve(__dirname, './dist'),
+  assetsDir: 'static'
 }
