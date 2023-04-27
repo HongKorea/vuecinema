@@ -2,7 +2,7 @@
   "name": "vuecinemalist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://HongKorea.github.io/vuecinema/",
+  "homepage": "https://hongkorea.github.io/vuecinema/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
